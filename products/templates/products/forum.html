@@ -1,0 +1,30 @@
+{% extends 'products/base.html' %}
+
+{% load static %}
+
+{% block css %}
+    <link href="{% static 'css/index.css' %}" rel="stylesheet">
+{% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-12 text-center wow fadeInUp" data-wow-delay="700ms" style="margin-top: 20px">
+            <a href="{% url 'add_disc' %}" class="btn alime-btn btn-2 mt-15"><u>Добавить новое обсуждение</u></a>
+        </div>
+    </div>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    {% for disc in discussions %}
+                        <div>
+                            Name: <a href="{% url 'detail_disc' disc.slug disc.id %}">{{ disc.name }}</a>
+                            | Description: {{ disc.description }}
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
+

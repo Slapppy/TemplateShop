@@ -1,0 +1,30 @@
+{% extends 'products/base.html' %}
+
+
+{% block content %}
+    {% if user.is_authenticated and user.id == product.user_id %}
+        <section class="site-section" id="about-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 mb-3"><h2>Вы действительно хотите удалить шаблон?</h2></div>
+
+                    <form action="" method="post">
+                        {{ form.as_p }}
+                        {% csrf_token %}
+                        <button class="btn btn-danger" style="margin-left: 15px">Удалить</button>
+                    </form>
+
+                </div>
+            </div>
+        </section>
+    {% else %}
+        <section class="site-section" id="about-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 mb-3" style="margin-top: 30px"><h1>Это не ваш шаблон и вы не можете его
+                        удалить</h1></div>
+                </div>
+            </div>
+        </section>
+    {% endif %}
+{% endblock %}
