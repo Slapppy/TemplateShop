@@ -2,123 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e4a31c6-bfe7-4968-b9e4-fb48185a06bf" name="Changes" comment="f">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/Upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/views/upload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/store/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/views/signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views/signup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/14.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31-MSgaPUL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31-MSgaPUL._AC_SR320400__rdkZc7r.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31WzloVVToL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31WzloVVToL._AC_SR320400__JuFJdQA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31adeoSK0CL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31adeoSK0CL._AC_SR320400__5kLvkHW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31ef1nDAdCL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31ef1nDAdCL._AC_SR320400__wr00sC9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31etbQpXoyL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/31zZ5vIfL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/413O7rACWL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/4169ok3M3TL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/4169ok3M3TL._AC_SR320400__RfvZIQJ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41EgywqPk2L._AC_UL320_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41EgywqPk2L._AC_UL320_SR320320__8DZmwl9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41FGrEjvWHL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41FVBFDQ-L._AC_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41FVBFDQ-L._AC_SR320320__x8K742C.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41INKd7XG0L._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41INKd7XG0L._AC_SR320400__zuSU4Gy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41KmI8aQFkL._AC_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41L7zqIhLoL._AC_SR160200_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41LKI6hLTgL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41LKI6hLTgL._AC_SR320400__nMd4hS7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41N5WVXzQAL._AC_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41N5WVXzQAL._AC_SR320320__33G8TY3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41RxZe5SjL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41Tm1uwMmOL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41Tm1uwMmOL._AC_SR320400__OccglUa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41ekOc6O1ML._BG0000_FMpng_AC_SY160_SX160_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41kGxluC8CL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41oABYsbrwL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41oABYsbrwL._AC_SR320400__ZinFYrU.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41tgcoWilAL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41vGMtwPaYL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41x1lqLMyL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/41x1lqLMyL._AC_SR320400__chBwbdw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/513Fy11CuzL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/513Fy11CuzL._AC_SR320400__plK9q7T.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/514wphzZk7S._AC_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/514wphzZk7S._AC__g84VeRW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/515rsnc7ErL._AA210_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51DpM-TIAqS._AC_UL270_SR270270_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51Ffcep58fL._AA210_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51HXQKoYWuL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51Hq96n1FDL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51JbZ3d6cAL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51KSE29ctyL._AC_UL320_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51Lv37fiwTL._AC_UL320_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51Lv37fiwTL._AC_UL320_SR320320__STeRZCq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51O0U68M2jL._AA210_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51WyPIbYHlL._AC_SR320400_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51Y4cB32CoL._AA210_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51aHI1TdBzL._BG0000_FMpng_AC_SY160_SX160_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/51s9Bnhr1qL._AA210_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61GdQObXKbL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61Huv14oWjS._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61LbAmB0BZS._AC_UL100_SR100100_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61LctS6qp7L._AC_UL320_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61LctS6qp7L._AC_UL320_SR320320__CD33bqv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61MeA5qHIaL._AC_UL270_SR270270_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61XG5TJgxbL.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61ZnXKOo5oL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61b1FK-n4kL._AC_UY879_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61cdb58VaWL._AC_UL1000_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61m0ZHHexqL._AC_UL320_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/61wfKAXGc5L._AC_UL1317_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71KlXoOsXzL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71RWWweifuL._AC_UL320_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71RWWweifuL._AC_UL320_SR320320__xM95LKs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71ck3ge7PYL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71gEWtwaZbL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71k0ZI4IVL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71tb7LKauOL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71wa56BxzTL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71yZ3oagv7L._AC_UL1500_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/71yZ3oagv7L._AC_UL1500__I5TAIrZ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/7_uhXCNAG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/8155N41lofL._AC_UL320_SR320320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/81JnxfkUYL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/81bmMsAwI-L._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/81vPkrXgNzL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/91hr1ocmCL._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/91rpxG-dO4L._AC_UL320_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/9_QebDpqi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/CS._SS400_QL85_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/CS._SS400_QL85__4YDUqRm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/Casio._SS680_QL85_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/Casio._SS680_QL85__DskQXgr.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/DWW._SS400_QL85_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/DWW._SS400_QL85__FipkklG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/Men.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/Men_hy6fczR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/SG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/Solar_powered_watches_._SY530_QL85_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/Women.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/Women_LucapaK.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/gm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/products/oppo.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2JKNYk0XAgv6opZ3kRRFNV72n8k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -149,7 +35,30 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Django Server.TemplateShop">
+    <configuration name="TemplateShop" type="Python.DjangoServer" factoryName="Django server">
+      <module name="TemplateShop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +119,10 @@
       <workItem from="1672055452378" duration="25000" />
       <workItem from="1672055534676" duration="5000" />
       <workItem from="1672055577434" duration="7000" />
-      <workItem from="1672055619044" duration="27000" />
+      <workItem from="1672055619044" duration="753000" />
+      <workItem from="1672243978995" duration="353000" />
+      <workItem from="1672244651657" duration="617000" />
+      <workItem from="1672248377894" duration="15000" />
     </task>
     <servers />
   </component>
@@ -228,5 +140,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/store/forms.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
